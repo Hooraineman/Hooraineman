@@ -1,14 +1,13 @@
 # Hi there, I'm Hoorain Eman 👋
 
-I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growing passion for **app development**. I love building things that people can actually use — clean, functional, and easy to navigate.
+I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growing passion for ** AI AND app development**. I love building things that people can actually use — clean, functional, and easy to navigate.
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🎓 Studying BS Computer Science at **UET Peshawar** | CGPA: 3.3/4.0
-- 📱 Passionate about **app development** and building user-friendly interfaces
-- 🌱 Currently expanding my skills in **JavaScript frameworks & mobile-first design**
+- 📱 Passionate about **AI and development** 
 - 💡 I enjoy turning ideas into real working projects
 - 🤝 Open to collaborating on interesting dev projects
 - 📫 Reach me at: **emanhande82@gmail.com**
@@ -20,8 +19,6 @@ I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growin
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Web & App Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,6 +29,8 @@ I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![n8n](https://shields.io)
+![Zapier](https://shields.io)
 
 ---
 
@@ -63,7 +62,7 @@ I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growin
 
 ---
 
-*"Every app starts with a single line of code."* 💻
+
 
 
 
