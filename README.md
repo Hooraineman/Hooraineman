@@ -29,11 +29,19 @@ I'm a **Computer Science student at UET Peshawar** (Class of 2028) with a growin
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Zapier](https://shields.io)
-![n8n](https://shields.io)
-
 
 ---
+### 🛠️ Tools & Automation
+
+<p align="left">
+  <a href="https://n8n.io" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org" alt="n8n" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://zapier.com" target="_blank" rel="noreferrer">
+    <img src="https://simpleicons.org" alt="Zapier" width="40" height="40"/>
+  </a>
+</p>
 
 ## 🚀 Featured Projects
 
